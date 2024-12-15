@@ -149,8 +149,17 @@
         <mxCell id="oXPiVWxlWM9DNFQVzROF-54" value="&lt;h2&gt;LEVEL 1 DIAGRAM&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="300" y="530" width="211" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iDiEvsZZlQ8KxW4KMv1J-4" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="630" width="100" height="30" as="geometry" />
+        <mxCell id="iDiEvsZZlQ8KxW4KMv1J-4" value="User Database" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iDiEvsZZlQ8KxW4KMv1J-5" value="User CV" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="600" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iDiEvsZZlQ8KxW4KMv1J-6" value="Resume Versions" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="371" y="600" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iDiEvsZZlQ8KxW4KMv1J-7" value="Marketplace Standards" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="600" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
