@@ -214,16 +214,29 @@
           <mxGeometry x="300" y="910" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iDiEvsZZlQ8KxW4KMv1J-11" value="LLM Assisted Resume Tuning" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="690" y="840" width="90" height="90" as="geometry" />
+          <mxGeometry x="580" y="890" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iDiEvsZZlQ8KxW4KMv1J-12" value="Multi-Format Resume Tuning" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="600" y="940" width="90" height="90" as="geometry" />
+          <mxGeometry x="980" y="1020" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iDiEvsZZlQ8KxW4KMv1J-13" value="Template Marketplace" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="690" y="710" width="90" height="90" as="geometry" />
+          <mxGeometry x="980" y="880" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iDiEvsZZlQ8KxW4KMv1J-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iDiEvsZZlQ8KxW4KMv1J-14" target="iDiEvsZZlQ8KxW4KMv1J-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="505" y="1160" />
+              <mxPoint x="85" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDiEvsZZlQ8KxW4KMv1J-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iDiEvsZZlQ8KxW4KMv1J-14" target="iDiEvsZZlQ8KxW4KMv1J-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1135" />
+              <mxPoint x="430" y="995" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iDiEvsZZlQ8KxW4KMv1J-14" value="User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="1120" width="110" height="30" as="geometry" />
@@ -269,10 +282,29 @@
           <mxGeometry x="435" y="600" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iDiEvsZZlQ8KxW4KMv1J-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iDiEvsZZlQ8KxW4KMv1J-49" target="iDiEvsZZlQ8KxW4KMv1J-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="1075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDiEvsZZlQ8KxW4KMv1J-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iDiEvsZZlQ8KxW4KMv1J-49" target="iDiEvsZZlQ8KxW4KMv1J-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="1050" />
+              <mxPoint x="510" y="680" />
+              <mxPoint x="379" y="680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iDiEvsZZlQ8KxW4KMv1J-49" value="Adding Tags" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="315" y="1040" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iDiEvsZZlQ8KxW4KMv1J-54" value="Allow user to tune their Pro-Profile" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1000" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iDiEvsZZlQ8KxW4KMv1J-55" value="Create LLM tuned resume versions" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="650" y="990" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
