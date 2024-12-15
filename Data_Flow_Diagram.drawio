@@ -320,7 +320,7 @@
         <mxCell id="iDiEvsZZlQ8KxW4KMv1J-48" value="User ProProfile Tags" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
           <mxGeometry x="435" y="600" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iDiEvsZZlQ8KxW4KMv1J-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="iDiEvsZZlQ8KxW4KMv1J-49" target="iDiEvsZZlQ8KxW4KMv1J-48">
+        <mxCell id="iDiEvsZZlQ8KxW4KMv1J-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="iDiEvsZZlQ8KxW4KMv1J-49" target="iDiEvsZZlQ8KxW4KMv1J-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="1075" />
