@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="mKPKOX54xG1sVrPRqSOk">
-    <mxGraphModel dx="1221" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,13 +14,13 @@
           <mxGeometry x="278" y="80" width="272" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oXPiVWxlWM9DNFQVzROF-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="329" y="260" width="170" height="160" as="geometry" />
+          <mxGeometry x="289" y="230" width="250" height="230" as="geometry" />
         </mxCell>
         <mxCell id="oXPiVWxlWM9DNFQVzROF-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="oXPiVWxlWM9DNFQVzROF-6">
-          <mxGeometry x="0.8056872037914691" width="157.6158940397351" height="157.6158940397351" as="geometry" />
+          <mxGeometry x="1.1848341232227486" width="223.88621312462374" height="223.88621312462374" as="geometry" />
         </mxCell>
         <mxCell id="oXPiVWxlWM9DNFQVzROF-4" value="&lt;h1&gt;RIZZUME&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;" vertex="1" parent="oXPiVWxlWM9DNFQVzROF-6">
-          <mxGeometry y="68.57142857142857" width="170" height="22.857142857142854" as="geometry" />
+          <mxGeometry x="57.190000000000005" y="98.57" width="111.87" height="32.86" as="geometry" />
         </mxCell>
         <mxCell id="oXPiVWxlWM9DNFQVzROF-7" value="Users" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="240" width="120" height="220" as="geometry" />
@@ -29,14 +29,14 @@
           <mxGeometry x="670" y="240" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="oXPiVWxlWM9DNFQVzROF-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="304" y="540" width="220" height="120" as="geometry" />
+          <mxGeometry x="304" y="640" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oXPiVWxlWM9DNFQVzROF-9" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="oXPiVWxlWM9DNFQVzROF-11">
           <mxGeometry x="50" y="-50" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="oXPiVWxlWM9DNFQVzROF-10" value="Admins" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=1;" vertex="1" parent="oXPiVWxlWM9DNFQVzROF-11">
           <mxGeometry x="57.5" y="26.88" width="105" height="66.25" as="geometry">
-            <mxRectangle x="70" y="37.5" width="80" height="30" as="alternateBounds" />
+            <mxRectangle x="57.5" y="26.88" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
