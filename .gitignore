@@ -1,2 +1,2 @@
-'./db_setup/.env'
-'/db_setup/fake_data'
+./db_setup/.env
+/db_setup/fake_data
