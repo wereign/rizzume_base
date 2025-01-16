@@ -2,70 +2,72 @@
     "users": [
         {
             "user_id": 42,
-            "personal_info": {
-                "first_name": "",
-                "middle_name": "",
-                "summary": "",
-                "last_name": "",
-                "email": "",
-                "contact number": "",
-                "websites": {
-                    "portfolio": "",
-                    "linkedIn": "",
-                    "github": ""
-                }
+            "master_profile": {
+                "personal_info": {
+                    "first_name": "",
+                    "middle_name": "",
+                    "summary": "",
+                    "last_name": "",
+                    "email": "",
+                    "contact number": "",
+                    "websites": {
+                        "portfolio": "",
+                        "linkedIn": "",
+                        "github": ""
+                    }
+                },
+                "education": [
+                    {
+                        "title": "",
+                        "institute": "",
+                        "graduation": "",
+                        "score": ""
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "",
+                        "tags": ""
+                    }
+                ],
+                "projects": [
+                    {
+                        "title": "",
+                        "organization": "",
+                        "duration": "",
+                        "link": "",
+                        "description": "",
+                        "tags": []
+                    }
+                ],
+                
+                "experience": [{
+                    "role":"",
+                    "company":"",
+                    "about the company":"",
+                    "location":"",
+                    "onsite / remote":"",
+                    "description":"",
+                    "tags":[]
+                }],
+
+                "certifications":[
+                    {
+                        "title":"",
+                        "organization":"",
+                        "link":"",
+                        "year":"",
+                        "tags":""
+                    }
+                ],
+
+                "achievements":[
+                    {
+                        "Award Title":"",
+                        "Description":""
+                    }
+                ]
             },
-            "education": [
-                {
-                    "title": "",
-                    "institute": "",
-                    "graduation": "",
-                    "score": ""
-                }
-            ],
-            "skills": [
-                {
-                    "name": "",
-                    "tags": ""
-                }
-            ],
-            "projects": [
-                {
-                    "title": "",
-                    "organization": "",
-                    "duration": "",
-                    "link": "",
-                    "description": "",
-                    "tags": []
-                }
-            ],
-            
-            "experience": [{
-                "role":"",
-                "company":"",
-                "about the company":"",
-                "location":"",
-                "onsite / remote":"",
-                "description":"",
-                "tags":[]
-            }],
-
-            "certifications":[
-                {
-                    "title":"",
-                    "organization":"",
-                    "link":"",
-                    "year":"",
-                    "tags":""
-                }
-            ],
-
-            "achievements":[
-                {
-                    "Award Title":"",
-                    "Description":""
-                }
-            ],
 
             "all_tags":[]
             
