@@ -16,6 +16,7 @@
                         "github": ""
                     }
                 },
+
                 "education": [
                     {
                         "title": "",
@@ -24,12 +25,14 @@
                         "score": ""
                     }
                 ],
+
                 "skills": [
                     {
                         "name": "",
-                        "tags": ""
+                        "tags": []
                     }
                 ],
+                
                 "projects": [
                     {
                         "title": "",
@@ -41,15 +44,17 @@
                     }
                 ],
                 
-                "experience": [{
-                    "role":"",
-                    "company":"",
-                    "about the company":"",
-                    "location":"",
-                    "onsite / remote":"",
-                    "description":"",
-                    "tags":[]
-                }],
+                "experience": [
+                    {
+                        "role":"",
+                        "company":"",
+                        "about the company":"",
+                        "location":"",
+                        "onsite / remote":"",
+                        "description":"",
+                        "tags":[]
+                    }
+                ],
 
                 "certifications":[
                     {
@@ -57,7 +62,7 @@
                         "organization":"",
                         "link":"",
                         "year":"",
-                        "tags":""
+                        "tags":[]
                     }
                 ],
 
