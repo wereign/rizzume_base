@@ -90,7 +90,7 @@
         {
         "_id":"",
         "name":"",
-        "Tuned_profile":{},
+        "tuned_profile":{},
         "job_title":"",
         "job_descriotion":""
         }
