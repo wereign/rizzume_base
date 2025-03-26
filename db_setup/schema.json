@@ -1,81 +1,99 @@
 {
-    "users": [
+"user": {
+    "master_profile": {
+        "personal_info": {
+            "first_name": "",
+            "middle_name": "",
+            "last_name": "",
+            "title" : "",
+            "city" : "",
+            "country" : "",
+            "pin_code" : "",
+            "summary": "",
+            "email": "",
+            "contact_number": "",
+            "websites": [
+                {
+                "platform": "",
+                "link" : ""
+                }
+            ]
+        },
+        "education": [
+            {
+            "title": "",
+            "institute": "",
+            "start_date": "",
+            "graduation_date": "",
+            "score": ""
+            }
+        ],
+        "skills": [
+            {
+            "name": "",
+            "tags": [""]
+            }
+        ],
+        "projects": [
+            {
+            "title": "",
+            "organization": "",
+            "start_date": "",
+            "end_date": "",
+            "link": "",
+            "description": "",
+            "tags": [""]
+            }
+        ],
+        "experience": [
+            {
+            "role": "",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "mode": "",
+            "description": "",
+            "tags": [""]
+            }
+        ],
+        "certifications": [
+            {
+            "title": "",
+            "organization": "",
+            "link": "",
+            "date": "",
+            "tags": [""]
+            }
+        ],
+        "achievements": [
+            {
+            "award_title": "",
+            "description": "",
+            "date": "",
+            "tags": [""]
+            }
+        ]
+    },
+    "all_tags": [""],
+    "exports":[
         {
-            "user_id": 42,
-            "master_profile": {
-                "personal_info": {
-                    "first_name": "",
-                    "middle_name": "",
-                    "summary": "",
-                    "last_name": "",
-                    "email": "",
-                    "contact number": "",
-                    "websites": {
-                        "portfolio": "",
-                        "linkedIn": "",
-                        "github": ""
-                    }
-                },
-
-                "education": [
-                    {
-                        "title": "",
-                        "institute": "",
-                        "graduation": "",
-                        "score": ""
-                    }
-                ],
-
-                "skills": [
-                    {
-                        "name": "",
-                        "tags": []
-                    }
-                ],
-                
-                "projects": [
-                    {
-                        "title": "",
-                        "organization": "",
-                        "duration": "",
-                        "link": "",
-                        "description": "",
-                        "tags": []
-                    }
-                ],
-                
-                "experience": [
-                    {
-                        "role":"",
-                        "company":"",
-                        "about the company":"",
-                        "location":"",
-                        "onsite / remote":"",
-                        "description":"",
-                        "tags":[]
-                    }
-                ],
-
-                "certifications":[
-                    {
-                        "title":"",
-                        "organization":"",
-                        "link":"",
-                        "year":"",
-                        "tags":[]
-                    }
-                ],
-
-                "achievements":[
-                    {
-                        "Award Title":"",
-                        "Description":""
-                    }
-                ]
-            },
-
-            "all_tags":[]
-            
+        "_id":"",
+        "export_name":"",
+        "raw_export_id":"",
+        "pdf_export_id":"",
+        "tuned_version_id":"",
+        "template_id":""
+        }
+    ],
+    "tuned_version":[
+        {
+        "_id":"",
+        "name":"",
+        "Tuned_profile":{},
+        "job_title":"",
+        "job_descriotion":""
         }
     ]
+}
 }
