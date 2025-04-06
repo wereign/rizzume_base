@@ -752,7 +752,7 @@
           <mxGeometry x="1090" y="1404.76" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tH1lpr4riPxQRW5AE10u-43" value="&lt;h2&gt;RESUME GENERATION&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="1127" y="2030" width="240" height="30" as="geometry" />
+          <mxGeometry x="1220" y="1692.08" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tH1lpr4riPxQRW5AE10u-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tH1lpr4riPxQRW5AE10u-48" target="tH1lpr4riPxQRW5AE10u-8">
           <mxGeometry relative="1" as="geometry" />
