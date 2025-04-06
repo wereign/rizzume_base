@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.8">
   <diagram name="Page-1" id="mKPKOX54xG1sVrPRqSOk">
-    <mxGraphModel dx="1519" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="935" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -801,6 +801,24 @@
         </mxCell>
         <mxCell id="tH1lpr4riPxQRW5AE10u-70" value="ALL TAGS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1985" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tH1lpr4riPxQRW5AE10u-71" value="JOB DESCRIPTION" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1408.5" y="1985" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tH1lpr4riPxQRW5AE10u-73" value="SELECTED TAGS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1274" y="1985" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tH1lpr4riPxQRW5AE10u-75" value="MASTER PROFILE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="2120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tH1lpr4riPxQRW5AE10u-76" value="TUNED PROFILE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1262" y="2120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tH1lpr4riPxQRW5AE10u-77" value="FILTERED PROFILE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1384" y="2120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tH1lpr4riPxQRW5AE10u-78" value="TAGGED MASTER PROFILE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1506" y="2120" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
